@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+
+.list-container {
+    display: flex;
+    border: 2px solid black;
+}
+
